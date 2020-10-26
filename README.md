@@ -6,14 +6,14 @@ And also there’s the issue where some funds get scammed and misused in the nam
 
 VCare is a website to connect all on one platform; to donate :heavy_dollar_sign:, raise awareness :loudspeaker: and spread hope! :two_hearts:
 
-# # Who will join hands with us? :raised_hands:
+# Who will join hands with us? :raised_hands:
 
 1. Potential Funders
 2. Eligible Fund Receivers
 3. *Grama Niladhari* of the Relevant Division of the Fund Receiver
 4. Non-Profit Organizations
 
-# # How it works
+# How it works
 
 VCare, concerning the privacy concerns of the fund receivers, will publish fund requests while certifying information given via *Grama Niladhari* of the responsible Division, and funders across the country can register on the website and publish your donation motive. As the mediators, the non-profit organization will match potential donors and fund recipients. 
 Upon successful submission :gift:, the donor will receive a thank you message as a notification :bell:, and when the fund receiver’s request is fulfilled, the request post will be taken down. VCare would also support fundraising for legit charity projects of youth organizations, schools, universities, etc.
