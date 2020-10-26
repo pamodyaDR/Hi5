@@ -16,4 +16,4 @@ VCare is a website to connect all on one platform; to donate :heavy_dollar_sign:
 # # How it works
 
 VCare, concerning the privacy concerns of the fund receivers, will publish fund requests while certifying information given via _Grama Niladhari_ of the responsible Division, and funders across the country can register on the website and publish your donation motive. As the mediators, the non-profit organization will match potential donors and fund recipients. 
-Upon successful submission, the donor will receive a thank you message as a notification :bell:, and when the fund receiver’s request is fulfilled, the request post will be taken down. VCare would also support fundraising for legit charity projects of youth organizations, schools, universities, etc.
+Upon successful submission :gift:, the donor will receive a thank you message as a notification :bell:, and when the fund receiver’s request is fulfilled, the request post will be taken down. VCare would also support fundraising for legit charity projects of youth organizations, schools, universities, etc.
