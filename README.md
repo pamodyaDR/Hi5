@@ -1,5 +1,3 @@
-![VCare Logo](VCareLogo.png)
-
 # VCare: To donate, raise awareness and spread hope!
 
 Sri Lankans are known for their generosity and kind-heartedness. On TV and radio broadcasts, on social media pages like Facebook, Instagram, etc. we see and hear about many fundraisers and donation requests from all over the country. Yet many who need such funds and support whether it’s for educational purposes or medical situations so on, their voices go unheard because they cannot reach potential funders and vice versa. 
